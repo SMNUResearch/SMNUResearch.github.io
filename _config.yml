@@ -1,13 +1,14 @@
 title                    : "Ren Wang"
-description              : "Focusing on Data-centric AI."
+description              : "Focusing on Data-centric AI"
 repository               : "SMNUResearch/SMNUResearch.github.io"
 google_scholar_stats_use_cdn : false
 
 author:
   name             : "Ren Wang"
   avatar           : "images/wangren.jpg"
-  bio              : "Seoul National University"
+  bio              : "IEEE Graduate Student Member"
   location         : "Seoul"
+  employer         : "Seoul National University"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=ETjwbvEAAAAJ"
   github           : "SMNUResearch"
 
