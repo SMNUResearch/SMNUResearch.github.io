@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <span class='anchor' id='about-me'></span>
-I received the B.S. degree in Electrical and Computer Engineering from Seoul National University in 2018. I am currently working toward the integrated M.S. and Ph.D. degrees in Electrical and Computer Engineering at Seoul National University.
+I received the B.S. degree in Electrical and Computer Engineering from Seoul National University in 2018. I am currently working toward the integrated M.S. and Ph.D. degrees advised by Hyuk-Jae Lee in Electrical and Computer Engineering at Seoul National University.
 
 My current research interests include
 - Multi-view object classification and detection
